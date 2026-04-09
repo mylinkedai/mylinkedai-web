@@ -1,2 +1,2 @@
-# mylinkedai-web
-# mylinkedai-web
+# connectedai-web
+# connectedai-web
